@@ -1,0 +1,12 @@
+[
+  {"title": "Make breakfast", "id": 1, "body": "Make scrambled eggs with spinach and a smoothie.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Get at least 8 hours of sleep", "id": 2, "body": "Sleep is important for health and productivity.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Clean the room", "id": 3, "body": "Dust, wash the windows and put things back.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Do some physical activity", "id": 4, "body": "Go for a bike ride or visit the gym.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Read a book", "id": 5, "body": "Start a new book and enjoy your reading time.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Prepare lunch", "id": 6, "body": "Prepare seafood pasta and salad.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Plant flowers in the garden", "id": 7, "body": "Plant different types of flowers to decorate the garden.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Learn a new language", "id": 8, "body": "Learn the basics of Spanish with online lessons.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Spend time with family", "id": 9, "body": "Go on a picnic with family and children.", "createdDate": "10.28.2023 20:23:23"},
+  {"title": "Try a new recipe", "id": 10, "body": "Try making an Indian curry.", "createdDate": "10.28.2023 20:23:23"}
+]
